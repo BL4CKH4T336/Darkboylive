@@ -8,7 +8,7 @@ def index():
     
     # Define video URLs based on quality
     video_urls = {
-        '1080p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1741149777~acl=%2f*~data=hdntl~hmac=76411f198e0ce7850ded22c05da3f9239a037d38338204abb41f4a6d6a0a7f56/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8",
+        '1080p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1741520182~acl=/*~hmac=1a03b1cce9e170f94589ef43002f4ca93183df5ba52f1fb9319f3d2151846076",
         '720p': "https://cdnt20.t20hd.cfd/live/m3-index.m3u8",
         '480p': "ae6ff841ccbb41d820a46f0a255ad02a678707e7c6ad9a63bd546d3ee24d/JC_Sports18_1HD-audio_108038_eng=108000-video=2297600.m3u8",
         '360p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1741149777~acl=%2f*~data=hdntl~hmac=76411f198e0ce7850ded22c05da3f9239a037d38338204abb41f4a6d6a0a7f56/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8",
