@@ -8,7 +8,7 @@ def index():
     
     # Define video URLs based on quality
     video_urls = {
-        '1080p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1741520182~acl=/*~hmac=1a03b1cce9e170f94589ef43002f4ca93183df5ba52f1fb9319f3d2151846076",
+        '1080p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742730376~acl=%2f*~data=hdntl~hmac=4d0c8a820045dc6db1383b1b648df359f4cf84b0bef35258bed29099afad897a/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=2297600.m3u8",
         '720p': "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1741520182~acl=/*~hmac=1a03b1cce9e170f94589ef43002f4ca93183df5ba52f1fb9319f3d2151846076",
         '480p': "ae6ff841ccbb41d820a46f0a255ad02a678707e7c6ad9a63bd546d3ee24d/JC_Sports18_1HD-audio_108038_eng=108000-video=2297600.m3u8",
         '360p': "http://sat1.uvitech.eu/test/183386/82335/952016.m3u8?web=GRtQWBcJRgkUUQ9QVlZUAwJUD1cNVFtWVgICAgwAAwRTAQENUwQGClVEFRNHERFUVg9mX11EAlQCA00WTEoEQT1QXBteQ1UDD14LExhHFkJSEFdXVAMaWxAGAg4BAFsCUgNdAV5QBwlSUhsdFhUCQkQVVkRdRAJDCgBYFhUbFVoPXBoDVE1GQ18CGwsWVFcFB1cbGhsDQBVXRA9VVWYFVhRQW1xGWwpGWgoVE1sLPFVSD1hYXUQCQwIUTRZQShERWBtqXAgIBV1VAxl7XQpDeFkEVlVWC1VBfl8MXU1cBRFOG1pQEBMFR1NEAxMHVlIIFU4bVVYTVhVAT0MOG3AvEU4bXUEQBApAXwlXEw5HDgJCWhsaGw9LPkBTEkBLXABeB0saA0ZRRh8UC1hJawYMX1kHWkJQCVYSEAxDBRsVQ14NV1FNCxM7Q18CGwsWVFcBDlEbSw==",
